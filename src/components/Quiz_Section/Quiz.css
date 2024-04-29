@@ -1,0 +1,9 @@
+.embed_data_tag{
+    margin-top: 5%;
+}
+@media (max-width: 767px) {
+    /* Media query for screens less than 768px */
+    .embed_data_tag {
+      margin-top: 11%;
+    }
+  }

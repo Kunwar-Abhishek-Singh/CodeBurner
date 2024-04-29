@@ -1,0 +1,14 @@
+.main_div_second_page_for_grid_items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+@media (max-width: 767px) {
+.main_div_second_page_for_grid_items{
+    margin-top: 11%;
+}
+
+
+}
