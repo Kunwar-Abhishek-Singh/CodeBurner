@@ -9,7 +9,7 @@ import PrivateComponent from "../Private_component/PrivateComponent";
 import { cookie_validation_context } from "../Context_Component/Context";
 import { useParams } from "react-router-dom";
 import text_logo from "../../../src/images/text_logo.png";
-import { GiHamburgerMenu } from "react-icons/gi";
+
 
 const Header = () => {
   const { topper_name } = useParams();
